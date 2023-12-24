@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Blueprint-GitHub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**🌈 Have a Good Day Everyone 🌎**
 
-<!---
-Blueprint-GitHub/Blueprint-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔥 currently learning 
+  Meachine Learning Engineering by Andrly Burkov (2023.12.23 ~
