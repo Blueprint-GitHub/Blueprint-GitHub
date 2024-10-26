@@ -2,5 +2,5 @@
 
 - **Currently Learning 🔥**
 
-  정보처리 산업기사 실기 ( ~ 2024.10.20.)\
+  빅데이터 분석기사 실기 ( ~ 2024.11.30.)\
   Linear Algebra 5th Edition by Friedberg, Stephen H.
