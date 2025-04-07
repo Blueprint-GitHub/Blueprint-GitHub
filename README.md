@@ -5,5 +5,4 @@ but one who does not asks remains a fool forever"***
 
 - **Currently Learning 🔥**
 
-  Linear Algebra 5th Edition by Friedberg, Stephen H. (2024.12.08 ~)
-  
+INTRODUCTION TO NATURAL LANGUAGE PROCESSING by Jacob Eisenstein (2025.4.7 ~)
